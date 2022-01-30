@@ -407,6 +407,8 @@ body.offcanvas {
   margin-bottom: 4em;
   font-weight: 700;
   text-transform: uppercase;
+  text-align: justify;
+  text-indent: 1rem;
   letter-spacing: 5px;
   line-height: 1.8;
   position: relative; }
